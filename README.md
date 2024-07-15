@@ -1,4 +1,4 @@
-# Documentation de l'Application de Prévision de Séries Temporelles
+# Application de Prévision de Séries Temporelles
 
 ---
 
